@@ -1,7 +1,7 @@
 # Rock Paper Scissors SHOOOT!! 
 This robot is a mechanical hand that will always beat you at rock paper scissors with a special little trick up their sleeves (a camera?)
 
-![Image1](Images/Screenshot 2026-11-08 205758_edited.png)
+![Images/Screenshot 2026-11-08 205758_edited.png](https://github.com/manula5454/Rock-Paper-Scissors-SHOOT/blob/153f294fad6eae972a9b807f018260d4f4bc5df1/Images/Screenshot%202026-11-08%20205758_edited.png)
 
 ### This project uses an ESP32 camera module with WIFI and hardware including just servo motors. Data collected from the camera is sent to a webpage which displays it in graphs to evaluate your environment in the morning. It can also act as an alarm. 
 
